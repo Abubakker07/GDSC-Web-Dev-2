@@ -34,20 +34,16 @@ a{
     padding-left: 40px;
 }
 
-img{
-    height: 18px;
-    width: 18px;
-    padding-right: 2px;
-}
-
 .logo{
     font-size: 21px;
     text-transform:capitalize;
     color: #FFF;
 }
+
 ::placeholder{
     color: #FFF;
 }
+
 select{
     border: none;
     background-color: #149BFC;
